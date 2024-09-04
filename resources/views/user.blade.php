@@ -6,7 +6,7 @@
 </head>
 <body>
     <h1>Profil Pengguna</h1>
-    <p>ID: {{ $id }}</p>
-    <p>Nama: {{ $name }}</p>
+    <p>2241760083: {{ $id }}</p>
+    <p>Qodri: {{ $name }}</p>
 </body>
 </html>
